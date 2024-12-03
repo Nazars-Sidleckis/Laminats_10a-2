@@ -1,3 +1,4 @@
+
 def aprekinat_laminatu(plaksnes_garums, plaksnes_platums, istabas_garums, istabas_platums):
     kopejas_plaksnes = 0
     atlikusais_platums = istabas_platums
@@ -27,4 +28,4 @@ def aprekinat_laminatu(plaksnes_garums, plaksnes_platums, istabas_garums, istaba
     return kopejas_plaksnes
 
 # pārbaude
-print(aprekinat_laminatu(1, .5, 3, 2))
+# print(aprekinat_laminatu(1, .5, 3, 2))
